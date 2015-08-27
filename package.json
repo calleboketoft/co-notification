@@ -2,13 +2,11 @@
   "name": "co-notification",
   "version": "1.0.0",
   "description": "",
-  "main": "coNotification.ts",
+  "main": "coNotification.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Carl-Ola Boketoft",
   "license": "ISC",
-  "dependencies": {
-    "angular-toastr": "git+http://github.com/Foxandxss/angular-toastr"
-  }
+  "dependencies": {}
 }
