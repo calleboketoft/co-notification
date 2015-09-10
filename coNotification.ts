@@ -1,5 +1,5 @@
-import 'jspm_packages/github/Foxandxss/angular-toastr@1.4.1/angular-toastr.tpls.js'
-import 'jspm_packages/github/Foxandxss/angular-toastr@1.4.1/angular-toastr.min.css!css'
+import 'jspm_packages/github/Foxandxss/angular-toastr@1.5.0/angular-toastr.tpls.js'
+import 'jspm_packages/github/Foxandxss/angular-toastr@1.5.0/angular-toastr.min.css!css'
 
 class CoNotificationService {
   public static $inject = [
