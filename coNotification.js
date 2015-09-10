@@ -1,5 +1,5 @@
-require('jspm_packages/github/Foxandxss/angular-toastr@1.4.1/angular-toastr.tpls.js');
-require('jspm_packages/github/Foxandxss/angular-toastr@1.4.1/angular-toastr.min.css!css');
+require('jspm_packages/github/Foxandxss/angular-toastr@1.5.0/angular-toastr.tpls.js');
+require('jspm_packages/github/Foxandxss/angular-toastr@1.5.0/angular-toastr.min.css!css');
 var CoNotificationService = (function () {
     function CoNotificationService(toastr) {
         this.toastr = toastr;
